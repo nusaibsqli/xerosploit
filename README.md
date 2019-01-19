@@ -2,7 +2,6 @@
 [![Version](https://img.shields.io/badge/Xerosploit-Version_1.0-brightgreen.svg?maxAge=259200)]()
 [![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-MacOS-orange.svg)]()
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 Xerosploit For MacOS
 =
