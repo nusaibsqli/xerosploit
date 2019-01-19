@@ -65,8 +65,6 @@ Xerosploit For MacOS
 
 详细介绍：
 =
-未完待续
-
 
 [如何将Xerosploit移植到MacOS](https://xz.aliyun.com/t/3897)
 
