@@ -67,6 +67,9 @@ Xerosploit For MacOS
 =
 未完待续
 
+
+[如何将Xerosploit移植到MacOS](https://xz.aliyun.com/t/3897)
+
 Bug提交
 =
 
